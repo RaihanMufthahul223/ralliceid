@@ -1,0 +1,17 @@
+/* Font */
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;800&display=swap");
+
+html{
+    scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Nunito", sans-serif;
+}
+.bg-lofi {
+  /* Background gambar */
+  background-image: url("./img/bg.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
